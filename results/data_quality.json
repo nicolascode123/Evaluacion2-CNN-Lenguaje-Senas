@@ -1,0 +1,24 @@
+{
+  "train_original": {
+    "rows": 27455,
+    "columns": 785,
+    "nulls": 0,
+    "min_pixel": 0,
+    "max_pixel": 255
+  },
+  "test_original": {
+    "rows": 7172,
+    "columns": 785,
+    "nulls": 0,
+    "min_pixel": 0,
+    "max_pixel": 255
+  },
+  "duplicates_filtered_train": 0,
+  "duplicates_filtered_test": 0,
+  "train_test_exact_overlap": 0,
+  "train_validation_exact_overlap": 0,
+  "sha256": {
+    "sign_mnist_train.csv": "4c2897f19fab2b0ae2a7e4fa82e969043315d9f3a1a9cc0948b576bf1189a7e5",
+    "sign_mnist_test.csv": "0e9d67bae23e67f40728e0b63bf15ad4bd5175947b8a9fac5dd9f17ce133c47b"
+  }
+}

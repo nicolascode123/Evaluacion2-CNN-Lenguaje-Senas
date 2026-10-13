@@ -230,4 +230,3 @@ No se puede garantizar una calificación: la presentación individual y el cumpl
 - `TLY1102_Entrenamiento_CNN.ipynb` aportado: ejemplo docente revisado para adaptar componentes, sin copiar sus resultados CIFAR-10.
 - CSV del ZIP Sign Language MNIST aportado por el equipo. Fuente declarada en E1: [Kaggle, datamunge](https://www.kaggle.com/datasets/datamunge/sign-language-mnist).
 - Tablas y figuras de esta entrega: ejecución propia del notebook, archivos íntegros en `results/`.
-# Evaluacion2-CNN-Lenguaje-Senas

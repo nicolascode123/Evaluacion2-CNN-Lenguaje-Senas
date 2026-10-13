@@ -1,0 +1,2 @@
+modelo,accuracy,precision_macro,recall_macro,f1_macro,parameters,errors
+MLP histórico E1,0.8703,0.8778,0.8698,0.8694,109126,233
